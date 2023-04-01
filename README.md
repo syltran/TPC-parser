@@ -8,7 +8,7 @@
 Réaliser un analyseur syntaxique en utilisant les outils flex et bison, pour un langage de programmation appelé TPC, qui ressemble à un sous-ensemble du langage C.
 
 **Sujet :**  
-Voir le [sujet]()
+Voir le [sujet](https://github.com/syltran/TPC-parser/blob/master/sujet-projet-AS-2022-2023.pdf)
 
 ---
 
@@ -25,4 +25,4 @@ make
 Si le fichier TPC contient une erreur lexicale ou syntaxique, alors un message d'erreur s'affiche, indiquant le numéro de la ligne et le numéro dans la ligne du premier caractère du lexème causant l’erreur.
 
 **Mes choix d'implémentation :**  
-Voir le fichier [rapport.pdf]()
+Voir le fichier [rapport.pdf](https://github.com/syltran/TPC-parser/blob/master/doc/rapport.pdf)
