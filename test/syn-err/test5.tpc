@@ -1,0 +1,13 @@
+int main(void){
+   /* ce main a surtout pour but de voir si le numéro de ligne de l'erreur c'est bien 11 */
+   
+   /* 
+   int a = while;
+   blabla
+   
+
+   */
+   // if = 1;
+   int a = while;
+   return 0;
+}

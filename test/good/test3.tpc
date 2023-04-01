@@ -1,0 +1,18 @@
+int glo;
+
+int test(int bool){
+    return bool;
+}
+
+int main(void){
+    int a = 2; char b = '\'';
+    char c = (4);
+    /* ?BL"ÀÇ("TF'")))*Ù$!"'_>çu"é(:/E2KD.2)!=^b
+    */
+    int count=i+1;
+
+    c = '\\';
+    a = b && 1 || 2;
+    test(a || b);
+    return !1;
+}

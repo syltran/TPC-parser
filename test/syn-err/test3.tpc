@@ -1,0 +1,6 @@
+
+int main(void){
+    int if;
+    int else = 1;
+    return !1;
+}
