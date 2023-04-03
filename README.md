@@ -27,3 +27,5 @@ make
 Le fichier TPC peut être écrit à la main ou sinon des jeux d'essais sont donnés dans le répertoire test.
 
 Si le fichier TPC contient une erreur lexicale ou syntaxique, alors un message d'erreur s'affiche, indiquant le numéro de la ligne et le numéro dans la ligne du premier caractère du lexème causant l’erreur.
+
+Vous pouvez taper `make clean` pour nettoyer le projet.
